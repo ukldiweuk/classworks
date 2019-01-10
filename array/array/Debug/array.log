@@ -1,0 +1,3 @@
+﻿  array.cpp
+c:\users\admin\desktop\артем шульга\array\array\array.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  array.vcxproj -> C:\Users\Admin\Desktop\Артем Шульга\array\Debug\array.exe
